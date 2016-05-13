@@ -1,0 +1,6 @@
+[submodule "raft.git"]
+	path = raft.git
+	url = https://github.com/mransan/raft.git
+[submodule "raft-udp.git"]
+	path = raft-udp.git
+	url = https://github.com/mransan/raft-udp.git
